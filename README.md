@@ -1,5 +1,5 @@
-# Fakultet
-Projekat sa Java extended kursa
+# Faculty
+Project from the Java extended course
 Web dynamic - JPA
 
 
